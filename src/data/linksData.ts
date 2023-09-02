@@ -4,9 +4,7 @@ type Link = {
   thumbnail?: string;
 };
 
-type LinksData = {
-  [category: string]: Link[];
-};
+type LinksData = Record<string, Link[];
 
 
 export const linksData: LinksData = {

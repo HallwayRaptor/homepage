@@ -1,4 +1,3 @@
-import { useState } from "react";
 import LinkCard from "./LinkCard";
 
 type Link = {

@@ -1,5 +1,3 @@
-import React, { useRef, useEffect, useState } from 'react';
-
 type LinkProps = {
   title: string;
   url: string;
