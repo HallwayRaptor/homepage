@@ -12,7 +12,6 @@ type LinksGridProps = {
 };
 
 const LinksGrid: React.FC<LinksGridProps> = ({ links }) => {
-  const [minHeight, setMinHeight] = useState(0);
 
   return (
     <div className="grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
@@ -22,8 +21,6 @@ const LinksGrid: React.FC<LinksGridProps> = ({ links }) => {
           title={link.title}
           url={link.url}
           thumbnail={link.thumbnail}
-          setMinHeight={setMinHeight}
-          minHeight={minHeight}
         />
       ))}
     </div>
