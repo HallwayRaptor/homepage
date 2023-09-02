@@ -1,28 +1,40 @@
-# Create T3 App
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+<h1 align="center">
+  Raptor Homepage
+  <br>
+</h1>
 
-## What's next? How do I make an app with this?
+<h4 align="center">A homepage for your browser built with Next.js and Tailwindcss</h4>
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#license">License</a>
+</p>
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+![screenshot](https://cdn.discordapp.com/attachments/825082397011607565/1147571572685688913/image.png)
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+## Key Features
 
-## Learn More
+* Instant access to all of your favourite links, like a bookmark bar but it's your homepage
+* Fully responsive
+* Respects dark or light mode based on user preference, but also has a toggle switch
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+## Credits
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+This software uses the following packages:
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+- [Create t3-app](https://create.t3.gg/)
+- [Node.js](https://nodejs.org/)
+- [Tailwindcss](https://tailwindcss.com)
 
-## How do I deploy this?
+## License
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+MIT
+
+---
+
+> [hallwayraptor.com](https://www.hallwayraptor.com) &nbsp;&middot;&nbsp;
+> GitHub [@hallwayraptor](https://github.com/hallwayraptor) &nbsp;&middot;&nbsp;
+> Twitter [@hallwayraptor](https://twitter.com/hallwayraptor)
+
