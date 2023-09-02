@@ -4,7 +4,7 @@ type Link = {
   thumbnail?: string;
 };
 
-type LinksData = Record<string, Link[];
+type LinksData = Record<string, Link[]>;
 
 
 export const linksData: LinksData = {
