@@ -25,6 +25,7 @@
 - [ ]  Optimize thumbnails
 - [ ]  Games sub pages
 - [ ]  Add/remove items
+- [ ]  Fix dark mode toggle default state
 
 ## Credits
 
