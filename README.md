@@ -22,9 +22,9 @@
 
 ## To Do
 
-- []  Optimize thumbnails
-- []  Games sub pages
-- []  Add/remove items
+- [ ]  Optimize thumbnails
+- [ ]  Games sub pages
+- [ ]  Add/remove items
 
 ## Credits
 
