@@ -2,13 +2,12 @@ import Navbar from "./Navbar"
 
 type LayoutProps = {
   children: React.ReactNode;
-  activePage: string;
 }
 
-const Layout: React.FC<LayoutProps> = ({ children, activePage }) => {
+const Layout: React.FC<LayoutProps> = ({ children }) => {
   return (
     <div>
-      <Navbar activePage={activePage} />
+      <Navbar />
       <main className="p-4">
         {children}
       </main>
