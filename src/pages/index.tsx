@@ -14,7 +14,7 @@ const Home = () => {
           >
             {category}
           </h1>
-          <LinksGrid links={linksData[category]} />
+          <LinksGrid links={linksData[category]!} />
         </div>
       ))}
     </Layout>

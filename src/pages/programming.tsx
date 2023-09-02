@@ -6,8 +6,17 @@ const ProgrammingPage = () => {
 
   const programmingLinks = linksData.programming;
 
+  if (!programmingLinks) {
+    return (
+      <Layout>
+        <div>No links found for programming.</div>
+      </Layout>
+    );
+  }
+
+
   return (
-    <Layout activePage="programming">
+    <Layout>
       <LinksGrid links={programmingLinks} />
     </Layout>
   );

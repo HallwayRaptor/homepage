@@ -6,6 +6,15 @@ const GamesPage = () => {
   // Filtering out just games links
   const gamesLinks = linksData.games;
 
+  if (!gamesLinks) {
+    return (
+      <Layout>
+        <div>No links found for programming.</div>
+      </Layout>
+    );
+  }
+
+
   return (
     <Layout>
       <LinksGrid links={gamesLinks} />
