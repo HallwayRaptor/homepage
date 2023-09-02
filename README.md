@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  <a href="#to-do">To Do</a> •
+  <a href="#credits">Credits</a>
 </p>
 
 ![screenshot](https://cdn.discordapp.com/attachments/825082397011607565/1147571572685688913/image.png)
@@ -20,17 +20,19 @@
 * Fully responsive
 * Respects dark or light mode based on user preference, but also has a toggle switch
 
+## To Do
+
+- []  Optimize thumbnails
+- []  Games sub pages
+- []  Add/remove items
+
 ## Credits
 
 This software uses the following packages:
 
 - [Create t3-app](https://create.t3.gg/)
-- [Node.js](https://nodejs.org/)
 - [Tailwindcss](https://tailwindcss.com)
 
-## License
-
-MIT
 
 ---
 
